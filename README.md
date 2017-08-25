@@ -8,3 +8,6 @@ For more information about this sample see
 - [Customizing a Map Pin](http://developer.xamarin.com/guides/xamarin-forms/custom-renderer/map/customized-pin/).
 
 I'm changing the original code to merge those projects. The result is in the following image.
+
+iOS Screenshot
+[iOS Screenshot](https://github.com/erossini/XamarinFormsCustomMap/blob/master/Screenshots/Screenshot-iOS.png)
