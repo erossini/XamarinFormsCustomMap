@@ -12,5 +12,6 @@ I'm changing the original code to merge those projects. The result is in the fol
 - generate dynamically a pin based on the first letter of the Pid.Id
 - show the route
 
+
 iOS Screenshot
 ![iOS Screenshot](https://github.com/erossini/XamarinFormsCustomMap/blob/master/Screenshots/Screenshot-iOS.png)
