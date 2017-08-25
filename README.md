@@ -13,5 +13,5 @@ I'm changing the original code to merge those projects. The result is in the fol
 - show the route
 
 
-iOS Screenshot
+## iOS Screenshot
 ![iOS Screenshot](https://github.com/erossini/XamarinFormsCustomMap/blob/master/Screenshots/Screenshot-iOS.png)
