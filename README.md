@@ -10,4 +10,4 @@ For more information about this sample see
 I'm changing the original code to merge those projects. The result is in the following image.
 
 iOS Screenshot
-[iOS Screenshot](https://github.com/erossini/XamarinFormsCustomMap/blob/master/Screenshots/Screenshot-iOS.png)
+![iOS Screenshot](https://github.com/erossini/XamarinFormsCustomMap/blob/master/Screenshots/Screenshot-iOS.png)
